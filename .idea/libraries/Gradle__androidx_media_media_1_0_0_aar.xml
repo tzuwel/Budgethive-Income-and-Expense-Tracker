@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.media:media:1.0.0@aar" external-system-id="GRADLE">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../Spendee-Expense-Tracker-and-Budget-Manager-master/caches/transforms-3/8db30021f7ad920669b21c74a6b250df/transformed/media-1.0.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../Spendee-Expense-Tracker-and-Budget-Manager-master/caches/transforms-3/8db30021f7ad920669b21c74a6b250df/transformed/media-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../Spendee-Expense-Tracker-and-Budget-Manager-master/caches/transforms-3/8db30021f7ad920669b21c74a6b250df/transformed/media-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../Spendee-Expense-Tracker-and-Budget-Manager-master/caches/transforms-3/8db30021f7ad920669b21c74a6b250df/transformed/media-1.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Spendee-Expense-Tracker-and-Budget-Manager-master/caches/modules-2/files-2.1/androidx.media/media/1.0.0/5faf25be15e16e27275f5c7e04e15e944ebccea0/media-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

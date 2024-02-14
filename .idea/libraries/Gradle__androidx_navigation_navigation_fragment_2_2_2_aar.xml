@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.navigation:navigation-fragment:2.2.2@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../Spendee-Expense-Tracker-and-Budget-Manager-master/caches/transforms-3/1cc8c280c83bf301303a55d78921673d/transformed/navigation-fragment-2.2.2/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../Spendee-Expense-Tracker-and-Budget-Manager-master/caches/transforms-3/1cc8c280c83bf301303a55d78921673d/transformed/navigation-fragment-2.2.2/res" />
+      <root url="jar://$PROJECT_DIR$/../Spendee-Expense-Tracker-and-Budget-Manager-master/caches/transforms-3/1cc8c280c83bf301303a55d78921673d/transformed/navigation-fragment-2.2.2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Spendee-Expense-Tracker-and-Budget-Manager-master/caches/modules-2/files-2.1/androidx.navigation/navigation-fragment/2.2.2/14236c383673a4736a6e5429e10d7f418b10489b/navigation-fragment-2.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

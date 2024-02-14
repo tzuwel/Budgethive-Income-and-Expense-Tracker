@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.2.0@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Spendee-Expense-Tracker-and-Budget-Manager-master/caches/transforms-3/3348a68b9ec4cef2b46e2b8e7d06ea0a/transformed/lifecycle-viewmodel-2.2.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Spendee-Expense-Tracker-and-Budget-Manager-master/caches/transforms-3/3348a68b9ec4cef2b46e2b8e7d06ea0a/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Spendee-Expense-Tracker-and-Budget-Manager-master/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-viewmodel/2.2.0/4f90404dd52d3162217bf329db5afb32d373ec63/lifecycle-viewmodel-2.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-appcheck-interop:17.1.0@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Spendee-Expense-Tracker-and-Budget-Manager-master/caches/transforms-3/57be595c1a5d333bb1e7b76cac6721f3/transformed/jetified-firebase-appcheck-interop-17.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Spendee-Expense-Tracker-and-Budget-Manager-master/caches/transforms-3/57be595c1a5d333bb1e7b76cac6721f3/transformed/jetified-firebase-appcheck-interop-17.1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Spendee-Expense-Tracker-and-Budget-Manager-master/caches/modules-2/files-2.1/com.google.firebase/firebase-appcheck-interop/17.1.0/db8e1ed84fa1d773f67a4f10e074325e727572cc/firebase-appcheck-interop-17.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

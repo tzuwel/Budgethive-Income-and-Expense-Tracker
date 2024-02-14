@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.fragment:fragment:1.2.4@aar" external-system-id="GRADLE">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../Spendee-Expense-Tracker-and-Budget-Manager-master/caches/transforms-3/db3596aec203b87672124b02763aa41c/transformed/fragment-1.2.4/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../Spendee-Expense-Tracker-and-Budget-Manager-master/caches/transforms-3/db3596aec203b87672124b02763aa41c/transformed/fragment-1.2.4/res" />
+      <root url="jar://$PROJECT_DIR$/../Spendee-Expense-Tracker-and-Budget-Manager-master/caches/transforms-3/db3596aec203b87672124b02763aa41c/transformed/fragment-1.2.4/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Spendee-Expense-Tracker-and-Budget-Manager-master/caches/transforms-3/db3596aec203b87672124b02763aa41c/transformed/fragment-1.2.4/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Spendee-Expense-Tracker-and-Budget-Manager-master/caches/modules-2/files-2.1/androidx.fragment/fragment/1.2.4/bfa66119813f2997ac526678b7ed354312c83fc/fragment-1.2.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

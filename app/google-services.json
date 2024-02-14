@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "113946166591",
+    "firebase_url": "https://budgethive-8b61f-default-rtdb.firebaseio.com",
+    "project_id": "budgethive-8b61f",
+    "storage_bucket": "budgethive-8b61f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113946166591:android:723362d2066654e5297f8a",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJpjd5l1-dF_nauaO6hEYLBrOtaXDgF40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

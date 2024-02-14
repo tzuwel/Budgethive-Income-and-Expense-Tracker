@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="income_categories">
+        <item>Select Category</item>
+        <item>Allowance</item>
+        <item>Part-time Job</item>
+        <item>Scholarship/Grant</item>
+        <item>Other</item>
+    </string-array>
+
+    <!-- Add a similar string-array for expense categories -->
+
+    <string-array name="expense_categories">
+        <item>Select Category</item>
+        <item>Food</item>
+        <item>Transportation</item>
+        <item>Textbooks</item>
+        <item>Rent</item>
+        <item>School fees</item>
+        <item>Other</item>
+    </string-array>
+</resources>
